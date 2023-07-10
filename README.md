@@ -13,6 +13,7 @@ $ git clone https://github.com/krembik/Fbcreat
 ```
 ### ⇨  Menjalankan Script
 ```
-$ cd Fbcreat$ git pull
+$ cd Fbcreat
+$ git pull
 $ python create.py
 ```
